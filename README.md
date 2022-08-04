@@ -1,2 +1,2 @@
 # 2022-08-03-cc2022-git
-skill up git workshop
+CarpentryCon 2022: Skill-up: Beyond the SWC Git Lesson: Skills for Maintainers
